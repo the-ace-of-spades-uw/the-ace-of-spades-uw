@@ -11,7 +11,7 @@ I’m a theoretical engineer on a journey to become more practical.
 ## Reach Out
 
 Email: <asalittlejohn1@gmail.com>  
-LinkedIn: [in/asa-littlejohn](www.linkedin.com/in/asa-littlejohn)
+LinkedIn: [in/asa-littlejohn](https://www.linkedin.com/in/asa-littlejohn)
 
 ## Stats
 [![Asa's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-ace-of-spades-uw)](https://github.com/anuraghazra/github-readme-stats)
