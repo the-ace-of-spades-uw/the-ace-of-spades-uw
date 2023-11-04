@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi! I'm Asa, Current Engineering Student at the University of Waterloo
 
-<!--
-**the-ace-of-spades-uw/the-ace-of-spades-uw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I’m a theoretical engineer on a journey to become more practical.
+- :brain: I want to learn new technologies.
+- :world_map: Explore the digital world.
+- :hammer: Most of all, I want to create things that help people.
 
-Here are some ideas to get you started:
+**Join me on my journey!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach Out
+
+Email: <asalittlejohn1@gmail.com>  
+LinkedIn: [in/asa-littlejohn](www.linkedin.com/in/asa-littlejohn)
+
+## Stats
+[![Asa's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-ace-of-spades-uw)](https://github.com/anuraghazra/github-readme-stats)
